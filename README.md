@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sanyam Gujral</h1>
+### Hello There! I am <a href="http://gujralsanyam22.me/"> gujrak.</a> <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="100">
+
+[![Linkedin Badge](https://img.shields.io/badge/-gujralsanyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gujral-sanyam-685a45183)](https://www.linkedin.com/in/gujral-sanyam-685a45183/)
+[![Gmail Badge](https://img.shields.io/badge/-gujralsanyam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gujralsanyam@gmail.com)](mailto:gujralsanyam@gmail.com)
+![](https://komarev.com/ghpvc/?username=gujralsanyam)
+
 <h3 align="center">A passionate frontend developer and data science enthusiastic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gujralsanyam22&label=Profile%20views&color=0e75b6&style=flat" alt="gujralsanyam22" /> </p>
