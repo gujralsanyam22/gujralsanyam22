@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gujralsanyam22&label=Profile%20views&color=0e75b6&style=flat" alt="gujralsanyam22" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gujralsanyam22" alt="gujralsanyam22" /></a> </p>
+<h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
 <p align="left"> <a href="https://twitter.com/gujralsanyam" target="blank"><img src="https://img.shields.io/twitter/follow/gujralsanyam?logo=twitter&style=for-the-badge" alt="gujralsanyam" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushboogoel01&label=Profile%20views&color=129e00&style=plastic" alt="gujralsanyam22" /> </p>
