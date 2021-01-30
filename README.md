@@ -1,4 +1,4 @@
-### Hello There! I am <a href="http://gujralsanyam22.me/"> gujrak.</a> <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="100">
+### Hello There! I am <a href="http://gujralsanyam22.me/"> Sanyam Gujral.</a> <img src="https://media.giphy.com/media/eNotYhz6gsoNBUzsUa/giphy.gif" width="100">
 
 [![Linkedin Badge](https://img.shields.io/badge/-gujralsanyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gujral-sanyam-685a45183)](https://www.linkedin.com/in/gujral-sanyam-685a45183/)
 [![Gmail Badge](https://img.shields.io/badge/-gujralsanyam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gujralsanyam@gmail.com)](mailto:gujralsanyam@gmail.com)
